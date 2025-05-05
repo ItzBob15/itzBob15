@@ -1,7 +1,12 @@
-<h2 align="center">💫 About Me:<br><br>👋 Who I Am<br>I'm a passionate developer who thrives on solving problems and building tools that make life easier.<br><br>## 💡 My Expertise<br>- **Backend Development: ** Python, C++, Lua<br>- **Frontend Development: ** React, TypeScript, HTML/CSS<br>- **Tools & Frameworks: ** Git, Docker, REST APIs<br><br>## 💪 Key Strength<br>- Writing clean, maintainable code with a focus on performance<br>- Collaborating in agile environments to deliver scalable solutions<br>- Debugging complex systems with patience and precision</h2>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzBob15.ItzBob15&"  />
+</div>
 
+###
 
 <h3 align="center">Here's My Languages That I Used</h3>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -27,8 +32,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="30" alt="crystal logo"  />
 </div>
 
-<br clear="both">
+###
+
+<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa216Y3RoMXZjZGhrbW1pbDBqZ2t1MWZnYmlnNjZ5NHNydWNra3k3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
+###
+
+<h4 align="left">About Me:<br>I'm a passionate developer who thrives on solving problems and building tools that make life easier.<br><br>My Expertise:<br>- **Backend Development: ** Python, C++, Lua<br>- **Frontend Development: ** React, TypeScript, HTML/CSS<br>- **Tools & Frameworks: ** Git, Docker, REST APIs<br><br>Key Strength:<br>- Writing clean, maintainable code with a focus on performance<br>- Collaborating in agile environments to deliver scalable solutions<br>- Debugging complex systems with patience and precision</h4>
+
+###
+
+<div align="left">
+  <img height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9vMWg2YjRuajF0bmNhcjI1dG9qandoc3YwNTUwcmZ0c2l0a3dscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sKLC3yrhSsxpzMBK5Y/giphy.gif"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItzBob15/ItzBob15/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItzBob15/ItzBob15/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ItzBob15/ItzBob15/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <div align="center">
-  <img height="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dxbGF0bDVlN2pkZHBtNzhncDU1bHh5aW4xN2VvYXFuMGNqMXV5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjpbxBiGw5oPOOxLz3/giphy.gif"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzBob15&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
