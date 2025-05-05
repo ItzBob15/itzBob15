@@ -1,4 +1,7 @@
-https://pixel-profile.vercel.app/api/github-stats?itzBob15=<username>&theme=crt
+<div align="center">
+  <img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=itzBob15&screen_effect=true&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%2810deg%2C+%23fb6b1dFF+32%25%2C+%2391db69FF+78%25%29+&color=%23ffffffFF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItzBob15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
+</div>
 
 ###
 
