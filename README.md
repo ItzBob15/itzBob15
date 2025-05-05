@@ -1,8 +1,4 @@
-<br clear="both">
-
-<div align="center">
-  <img height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ3cjI5NGphMGkwOTZycGo2Z2FtOXhoN3JvemFoaXlsMTlyMDk3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KFBEaCDJqAjUvbPop5/giphy.gif"  />
-</div>
+https://pixel-profile.vercel.app/api/github-stats?itzBob15=<username>&theme=crt
 
 ###
 
