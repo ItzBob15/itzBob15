@@ -1,18 +1,14 @@
 <br clear="both">
 
 <div align="center">
-  <img height="90" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ3cjI5NGphMGkwOTZycGo2Z2FtOXhoN3JvemFoaXlsMTlyMDk3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KFBEaCDJqAjUvbPop5/giphy.gif"  />
+  <img height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ3cjI5NGphMGkwOTZycGo2Z2FtOXhoN3JvemFoaXlsMTlyMDk3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KFBEaCDJqAjUvbPop5/giphy.gif"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <h2 align="center">Hi there! Call me "Bob"</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItzBob15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
@@ -20,8 +16,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="center">Here's My Languages That I Used</h3>
 
@@ -52,8 +46,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItzBob15/ItzBob15/output/pacman-contribution-graph-dark.svg">
