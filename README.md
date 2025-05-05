@@ -1,6 +1,5 @@
-<div align="center">
-<img height="200" src="https://i.gifer.com/4foo.gif">
-</div>
+
+  
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzBob15.ItzBob15&"  />
 </div>
@@ -35,6 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="30" alt="crystal logo"  />
 </div>
 
+<div align="center">
+<img height="200" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=ItzBob15&screen_effect=true&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%280deg%2C+%23165a4cFF+0%25%2C+%2391db69FF+100%25%29+&color=%23ffffffFF"
+</div>
+  
 ###
 
 <img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa216Y3RoMXZjZGhrbW1pbDBqZ2t1MWZnYmlnNjZ5NHNydWNra3k3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
