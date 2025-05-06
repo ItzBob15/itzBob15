@@ -11,12 +11,11 @@
 <!-- markdownlint-disable MD033 -->
 <div style="text-align: center;>
 <ul style="display: inline-block; text-align: left;">
-<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> <b>Music Producer</b>: Crafting beats and melodies for immersive audio experiences.</li>
-<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> <b>Programmer</b>: Writing clean, innovative code for apps and games.</li>
-<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> <b>Creative Artist</b>: Designing visuals and concepts that spark imagination</li>
-<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> <b>Game Developer</b>: Building engaging games with unique mechanics.</li>
-<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="25" height="25" /> <b>Gamer</b>: Passionate gamer,
-exploring and enjoying interactive worlds.</li>
+<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> <b>Music Producer</b>: I make music for fun.</li>
+<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> <b>Programmer</b>: I'm still learning.</li>
+<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> <b>Creative Artist</b>: I enjoy creative arts and making art.</li>
+<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> <b>Game Developer</b>: I develop games, play them, test them with friends.</li>
+<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="25" height="25" /> <b>Gamer</b>: I enjoy indie games, though I'm not a hardcore or competitive gamer.</li>
 </ul>
 </div>
 <!-- markdownlint-enable MD033 -->
