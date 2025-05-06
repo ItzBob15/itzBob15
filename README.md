@@ -88,7 +88,10 @@
 
 ###
 
-<p align="left">About Me:<br>I'm a passionate developer who thrives on solving problems and building tools that make life easier.<br><br>My Expertise:<br>- **Backend Development: ** Python, C++, Lua<br>- **Frontend Development: ** React, TypeScript, HTML/CSS<br>- **Tools & Frameworks: ** Git, Docker, REST APIs<br><br>Key Strength:<br>- Writing clean, maintainable code with a focus on performance<br>- Collaborating in agile environments to deliver scalable solutions<br>- Debugging complex systems with patience and precision</p>
+<p align="left"> About me:
+  <br>I'm a passionate developer who thrives on solving problems and building tools that make life easier</br>
+  <br>My Expertise:<br>🟠 Backend Development: Python, C++, Lua<br>🟠 Frontend Development: React, TypeScript, HTML/CSS<br>🟠 Tools & Frameworks: Git, Docker, REST APIs<br>
+  <br>Key Strength:<br>🟢 Writing clean, maintainable code with a focus on performance<br>🟢 Collaborating in agile environments to deliver scalable solutions<br>🟢 Debugging complex systems with patience and precision</p>
 
 ###
 
