@@ -88,10 +88,10 @@
 
 ###
 
-<p align="left"> About me:
+<p align="left"> About me: 
   <br>I'm a passionate developer who thrives on solving problems and building tools that make life easier</br>
-  <br>My Expertise:<br>🟠 Backend Development: Python, C++, Lua<br>🟠 Frontend Development: React, TypeScript, HTML/CSS<br>🟠 Tools & Frameworks: Git, Docker, REST APIs<br>
-  <br>Key Strength:<br>🟢 Writing clean, maintainable code with a focus on performance<br>🟢 Collaborating in agile environments to deliver scalable solutions<br>🟢 Debugging complex systems with patience and precision</p>
+  <br>My Expertise:<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Backend Development: Python, C++, Lua<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Frontend Development: React, TypeScript, HTML/CSS<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Tools & Frameworks: Git, Docker, REST APIs<br>
+  <br>Key Strength:<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" /> Writing clean, maintainable code with a focus on performance<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" /> Collaborating in agile environments to deliver scalable solutions<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" /> Debugging complex systems with patience and precision</p>
 
 ###
 
