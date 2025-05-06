@@ -1,5 +1,3 @@
-
-  
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzBob15.ItzBob15&"  />
 </div>
@@ -34,31 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="30" alt="crystal logo"  />
 </div>
 
-<div align="center">
-<img height="200" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=ItzBob15&screen_effect=true&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%280deg%2C+%23165a4cFF+0%25%2C+%2391db69FF+100%25%29+&color=%23ffffffFF"
-</div>
-  
 ###
 
-<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa216Y3RoMXZjZGhrbW1pbDBqZ2t1MWZnYmlnNjZ5NHNydWNra3k3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<p align="left">About Me:<br>I'm a passionate developer who thrives on solving problems and building tools that make life easier.<br><br>My Expertise:<br>- **Backend Development: ** Python, C++, Lua<br>- **Frontend Development: ** React, TypeScript, HTML/CSS<br>- **Tools & Frameworks: ** Git, Docker, REST APIs<br><br>Key Strength:<br>- Writing clean, maintainable code with a focus on performance<br>- Collaborating in agile environments to deliver scalable solutions<br>- Debugging complex systems with patience and precision</p>
 
 ###
 
-<h4 align="left">About Me:<br>I'm a passionate developer who thrives on solving problems and building tools that make life easier.<br><br>My Expertise:<br>- **Backend Development: ** Python, C++, Lua<br>- **Frontend Development: ** React, TypeScript, HTML/CSS<br>- **Tools & Frameworks: ** Git, Docker, REST APIs<br><br>Key Strength:<br>- Writing clean, maintainable code with a focus on performance<br>- Collaborating in agile environments to deliver scalable solutions<br>- Debugging complex systems with patience and precision</h4>
-
-###
-
-<div align="left">
-  <img height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9vMWg2YjRuajF0bmNhcjI1dG9qandoc3YwNTUwcmZ0c2l0a3dscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sKLC3yrhSsxpzMBK5Y/giphy.gif"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItzBob15/ItzBob15/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItzBob15/ItzBob15/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ItzBob15/ItzBob15/output/pacman-contribution-graph.svg">
-</picture>
-
+<img src="https://raw.githubusercontent.com/ItzBob15/ItzBob15/output/snake.svg" alt="Snake animation" />
 
 ###
