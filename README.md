@@ -3,8 +3,16 @@
 <!-- markdownlint-enable MD033 -->
 
 <!-- markdownlint-disable MD033 -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54FF19&background=FFFFFF00&center=true&vCenter=true&width=435&lines=I'm+a+passionate+developer;Who+thrives+on+solving+problems;Building+tools+that+make+life+easier)](https://git.io/typing-svg)
+
 <!-- markdownlint-enable MD033 -->
+
+<a href="https://app.daily.dev/itzbob15" style="float: right;">
+    <img src="https://api.daily.dev/devcards/v2/ubzGhpzffgP5172TStu7x.png?type=default&r=grz" 
+         width="250" 
+         alt="Bobsy's Dev Card"/>
+</a>
 
 <!-- markdownlint-disable MD033 -->
 <div style="text-align: center;>
