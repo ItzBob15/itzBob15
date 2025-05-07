@@ -44,7 +44,7 @@
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> <strong>Game Developer</strong> - I develop games, play them, test them with friends.</p>
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="25" height="25" /> <strong>Gamer</strong> - I enjoy indie games, though I'm not a hardcore or competitive gamer.</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="25" height="25" /> <strong>Gamer</strong> - I enjoy indie games, though I'm <del>not a</del> hardcore or competitive gamer.</p>
 </div>
 
 ##
