@@ -15,6 +15,26 @@
 </div>
 <!-- markdownlint-enable MD033 -->
 
+
+# Hello there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+Welcome to my <strong><i>GitHub profile!</strong></i> I'm passionate about creating and exploring different areas of development and creativity.
+## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Exclamation%20Question%20Mark.png" alt="Exclamation Question Mark" width="25" height="25" />
+
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRkbmMwN3llZXZvYnV0amlmM2s1Y3R2azd3dHU3dzBneTRzd282bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300" style="border-radius: 50%;" />
+
+
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> **Music Producer** - I make music for fun.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Crab.png" alt="Crab" width="25" height="25" /> **Programmer** - I'm still learning.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" alt="Dove" width="25" height="25" /> **Creative Artist** - I enjoy creative arts and making art.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Hand%20Over%20Mouth.png" alt="Face with Hand Over Mouth" width="25" height="25" /> **Game Developer** - I develop games, play them, test them with friends.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="25" height="25" /> **Gamer** - I enjoy indie games, though I'm not a hardcore or competitive gamer.
+
+<br>
+
+Feel free to check out my repositories and i wish you have a good one! <strong><i>STAY AWESOME!</strong></i>
+
+
 ##
 <h3 align="center">Here's My Languages That I Used</h3>
 
@@ -29,23 +49,3 @@
 
 ###
 
-<!-- markdownlint-disable MD033 -->
-</div>
-
-
-## About Me
-
-<div style="text-align: left; padding: 20px;">
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> <strong>Music Producer</strong> - I make music for fun.</p>
-
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> <strong>Programmer</strong> - I'm still learning.</p>
-
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> <strong>Creative Artist</strong> - I enjoy creative arts and making art.</p>
-
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> <strong>Game Developer</strong> - I develop games, play them, test them with friends.</p>
-
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="25" height="25" /> <strong>Gamer</strong> - I enjoy indie games, though I'm <del>not a</del> hardcore or competitive gamer.</p>
-</div>
-
-##
-<!-- markdownlint-enable MD033 -->
